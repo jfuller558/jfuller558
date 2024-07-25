@@ -2,6 +2,7 @@
 - Pronouns: He/Him
 - About me:
   * I am a rising second year in the Computer Science program at the Rochester Institute of Technology
+  * I am aspiring for a job within the field of cyber security
 - My LinkedIn: linkedin.com/in/jackson-fuller-863a77272
 
 <!---
